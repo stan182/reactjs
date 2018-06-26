@@ -1,0 +1,19 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "leran ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan182/reactjs.git"
+  },
+  "author": "stan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stan182/reactjs/issues"
+  },
+  "homepage": "https://github.com/stan182/reactjs#readme"
+}
